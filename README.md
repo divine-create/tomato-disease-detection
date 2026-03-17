@@ -188,7 +188,7 @@ This project is licensed under the MIT License.
 
 📬 Contact
 
-Shashank Rajak
+Ukana Ikpe
 📧 Email: ikpeukana964@gmail.com
 
 🌟 Vision
